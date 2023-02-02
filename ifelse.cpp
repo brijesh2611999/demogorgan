@@ -9,6 +9,6 @@ cout << "lower case letter \n";
 else if(ch>='A' && ch<='Z')
 cout << "upper case letter \n";
 else
-cout << "numeric value \n" ;
+cout << "numeric value this is my job \n" ;
     return 0;
 }
